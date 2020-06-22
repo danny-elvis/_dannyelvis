@@ -30,6 +30,7 @@ body {
 #home span {
     display: flex;
     flex-direction: row;
+    align-items: first baseline;
 }
 
 #home p {
