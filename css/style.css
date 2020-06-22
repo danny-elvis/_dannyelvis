@@ -88,8 +88,6 @@ body {
 }
 
 .navbar img:hover {
-
-    
     height: 4em;
     transition: .2s;
 }
@@ -104,12 +102,11 @@ body {
 
 @media screen and (min-width: 380px) {
     #home h1 {
-    font-size: 3em;
-
+    font-size: 3.2em;
     }
     
     #home h2 {
-    font-size: 2.5em;
+    font-size: 2.7em;
     }
 }   
 
