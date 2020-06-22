@@ -95,7 +95,7 @@ body {
 
 /* Media query */
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 380px) {
     #home h1 {
     font-size: 3em;
 
