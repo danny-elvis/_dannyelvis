@@ -28,7 +28,8 @@ body {
 }
 
 #home span {
-    display: block ruby;
+    display: flex;
+    flex-direction: row;
 }
 
 #home p {
