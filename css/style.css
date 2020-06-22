@@ -83,20 +83,20 @@ body {
 
 .navbar ul li {
     /*! height: 100%; */
-    width: 15vw;
+    width: 5em;
     text-align: center;
 }
 
 .navbar img:hover {
 
     
-    height: 9vh;
+    height: 4em;
     transition: .2s;
 }
 
 .navbar img {
     width: auto;
-    height: 7vh;
+    height: 3em;
     transition: .5s;
 }
 
